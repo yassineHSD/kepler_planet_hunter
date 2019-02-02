@@ -8,3 +8,6 @@ Example:
 ```
 kepler_hunter.py input.lum
 ```
+[Twitter](https://mobile.twitter.com/benalayassine)
+[Instagram](https://www.instagram.com/rooooot/)
+[Email](mailto:benalayassine@gmail.com)
